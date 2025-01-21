@@ -1,7 +1,7 @@
 <h1>Carrinho de Compras</h1>
 
 <h2>Sobre</h2>
-<p>Projeto de criação de um carrinho de compras em JavaScript em base HTML e CSS </p>
+<p>Projeto de criação de um carrinho de compras em JavaScript com base HTML e CSS </p>
 
 ## Tecnologias
 <div>
